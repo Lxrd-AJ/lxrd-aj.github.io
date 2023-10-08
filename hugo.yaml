@@ -1,0 +1,12 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Fullmetal Engineer'
+theme: "PaperMod"
+
+params:
+  title: AJ Ibraheem
+  description: "A personal blog"
+  keywords: [Blog, Portfolio, Machine Learning]
+  author: AJ Ibraheem
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
