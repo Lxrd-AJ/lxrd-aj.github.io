@@ -28,3 +28,4 @@ hugo server --buildDrafts
 * Configuring the `hugo-PaperMod` theme 
     * https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs 
     * https://github.com/adityatelange/hugo-PaperMod/wiki/Features 
+* To update the `hugo-PaperMod` theme, run `git submodule update --remote --merge` in the root directory
